@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://discord.com/channels/@me/1218682335332008080/1366449564915208325"  />
+  <img height=150 src="https://github.com/GU1RROS/GU1RROS/blob/main/MeuGIF.gif?raw=true" alt="Descrição do GIF" />
 </div>
 
 ###
