@@ -30,34 +30,6 @@
 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-<style>
-  .image-container {
-    display: flex;
-    align-items: center;
-    gap: 20px; /* Espaço entre as imagens */
-    background-color: #f0f0f0; /* Cor de fundo do container */
-    padding: 10px;
-    border-radius: 8px; /* Bordas arredondadas, opcional */
-  }
-
-  .image-container a img {
-    background-color: white; /* Fundo para cada imagem individual */
-    padding: 5px;
-    border-radius: 5px;
-  }
-</style>
-
-<div class="image-container">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-
-  <!-- Espaço para a próxima imagem -->
-  <a href="#">
-    <img src="URL_DA_PROXIMA_IMAGEM" alt="proxima" width="40" height="40"/>
-  </a>
-</div>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gu1rros&show_icons=true&locale=en&layout=compact" alt="gu1rros" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gu1rros&show_icons=true&locale=en" alt="gu1rros" /></p>
