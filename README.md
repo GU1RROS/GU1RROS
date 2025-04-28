@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://discord.com/channels/@me/1218682335332008080/1366449564915208325"  />
 </div>
 
 ###
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  STATUS :</h3>
 
 ###
 
