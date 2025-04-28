@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left"><br><br>- 🔭 Atualmente Trabalho com Projetos em Infraestrutura de Redes<br>- 📚 Iniciando Pós Graduação em Engenharia de Redes...<br>- ⚡ +500 Projetos Em Redes Implantados! </p>
 
 ###
 
