@@ -13,16 +13,16 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GU1RROS&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"> OLÁ! EU SOU THIAGO GUIRROS </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Meu Mundo </h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Frameworks </h3>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h3 align="left">🔥  STATUS :</h3>
+<h3 align="left">🔥 ME ACOMPANHE :</h3>
 
 ###
 
