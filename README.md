@@ -22,7 +22,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Meu Mundo </h3> <p align="left"><br><br>- 🔭 Atualmente Trabalho com Projetos em Infraestrutura de Redes<br>- 📚 Cursando Engenharia de Software...<br>- ⚡ +500 Projetos Em Redes Implantados! </p>
+<h3 align="left">👩‍💻  Um Pouco Sobre Mim </h3> 
+<p align="left">
+  <br>- 🔭 Atualmente Trabalho com Projetos em Infraestrutura de Redes
+  <br>- 📚 Cursando Engenharia de Software...
+  <br>- ⚡ +500 Projetos Em Redes Implantados! </p>
 
 ###
 
